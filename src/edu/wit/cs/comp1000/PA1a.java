@@ -14,7 +14,7 @@ public class PA1a {
 	int a, b, c;	
 	double average;
 	
-	System.out.printf("Enter three intergers; ");
+	System.out. printf("Enter three intergers; ");
 	a = input.nextInt();
 	b = input.nextInt();
 	c = input.nextInt();
